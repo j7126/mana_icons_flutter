@@ -10,7 +10,7 @@ This is a package which wraps the symbol font [mana](https://github.com/andrewgi
 
 ```yaml
 dependencies:
-  mana_icons_flutter: ^0.0.3
+  mana_icons_flutter: ^0.0.1
 ```
 
 ## Usage
