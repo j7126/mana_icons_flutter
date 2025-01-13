@@ -1,6 +1,6 @@
 name: mana_icons_flutter
 description: "Magic: The Gathering symbols as icons in a flutter application."
-version: 1.15.9
+version: 1.18.0
 homepage: https://github.com/j7126/mana_icons_flutter
 
 environment:
